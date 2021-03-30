@@ -1,2 +1,2 @@
 # DD2365
-Navier-Stokes equations
+DD2365 Advanced Computation in Fluid Mechanics
